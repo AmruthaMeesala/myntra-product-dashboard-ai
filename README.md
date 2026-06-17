@@ -28,9 +28,4 @@ AI can generate dashboards quickly, but understanding the data is essential to e
 ---
  📁 Files Included
 - Myntra.mp4 (Demo video)  
-- image.png (Dashboard preview)  
----
-🙌 Future Improvements
-- Add advanced KPIs  
-- Improve interactivity  
-- Combine AI + manual enhancements  
+- image.png (Dashboard preview)   
